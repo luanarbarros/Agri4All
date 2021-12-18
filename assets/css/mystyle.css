@@ -1,0 +1,33 @@
+.maos {
+    background-image: url("../../images/maos.png");
+    height: 0;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    text-align: center;
+    padding-top: 0;
+    padding-bottom: 40%;
+    font-family: 'League Spartan', sans-serif;
+}
+.maos p {
+    font-family: 'OpenSauceOneRegular';
+    font-weight: lighter;
+}
+
+#header2 {
+    background: #ccc;
+    padding-bottom: 0;
+    line-height: 0;
+    text-align: center;
+    font-family: 'League Spartan', sans-serif;
+    padding-top: 5em;
+}
+
+#header2 h1 {
+    color: #222;
+    font-size: 4em;
+}
+
+.green {
+    color: #040;
+}
