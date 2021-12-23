@@ -42,3 +42,7 @@
     display: block;
     line-height: 1.5em;
 }
+
+.major {
+    font-family: 'League Spartan', sans-serif;
+}
