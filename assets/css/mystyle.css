@@ -46,3 +46,7 @@
 .major {
     font-family: 'League Spartan', sans-serif;
 }
+
+.major-icons a {
+    font-size: .9em;
+}
